@@ -19,4 +19,8 @@ Emacs 可以在[gnu.org](http://www.gnu.org/software/emacs/)下载。话说终�
 
 Emacs的SML Mode可以通过Emacs的`package-list`进行安装: `M-x package-list`，然后找到SML Mode，点击安装即可。
 
-安装之后可以通过`C-C C-S`在Emacs中调出SML的REPL，可以开始用Emacs写ML了。
+安装之后可以通过`C-C C-S`在Emacs中调出SML的REPL，可以开始用Emacs写ML了。在REPL中运行SML文件：
+
+```sml
+use "test.sml";
+```
