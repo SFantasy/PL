@@ -1,9 +1,7 @@
 Programming Languages
 ---
 
-## Introduction
-
-[Course](https://class.coursera.org/proglang-003) on Coursera.
+This is a repo for learning the [Course](https://class.coursera.org/proglang-003) on Coursera.
 
 ## Contents
 
