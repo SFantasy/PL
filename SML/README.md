@@ -15,3 +15,6 @@ Using SML/NJ with Emacs editor.
     - [Functions](examples/functions.sml)
     - [Tuple](examples/tulpe.sml)
     - [List functions](examples/list_functions.sml)
+    - [Let expressions](examples/let_expression.sml)
+    - [Nested functions](examples/nested_functions.sml)
+    - [Options](examples/options.sml)
